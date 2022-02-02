@@ -1,3 +1,3 @@
 # python_learn
-python_learn
-print "hello shaho"
+# python_learn
+# print "hello shaho"
